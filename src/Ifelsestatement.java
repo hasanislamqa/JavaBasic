@@ -6,7 +6,7 @@ public class Ifelsestatement {
 
         public static void main(String[] args) {
 
-            if (Apple < 70){
+            if (Apple ==60){
 
                 System.out.println(Apple);
             }else{
