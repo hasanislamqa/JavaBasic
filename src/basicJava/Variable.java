@@ -1,28 +1,16 @@
 package basicJava;
 
 public class Variable {
+    public static void main(String[] args) {
 
-    static int banana=20;
-    static int cumin=120;
-    static int pea=20;
-    static int apple=30;
-    static int sweet=200;
+        int Banana=30;
+        int Pear =20;
+        int Total= Banana+Pear;
 
+        System.out.println(Banana);
 
-
-
-    public static void main(String[]args){
-
-
-        System.out.println(banana);
-
-        System.out.println(cumin);
-        System.out.println(pea);
-        System.out.println(apple);
-        System.out.println(sweet);
-
+        System.out.println(Total);
 
     }
-
 
 }
